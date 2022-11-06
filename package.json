@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rmanish007/solana/issues"
   },
-  "homepage": "https://github.com/rmanish007/solana#readme"
+  "homepage": "https://github.com/rmanish007/solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
 }
